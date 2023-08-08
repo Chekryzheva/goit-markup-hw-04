@@ -331,7 +331,7 @@ button {
   padding-bottom: 120px;
 }
 .team-people-infa {
-  display: flex;
+  display: block;
   justify-content: center;
   gap: 24px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
