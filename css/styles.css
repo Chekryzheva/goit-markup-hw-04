@@ -317,9 +317,6 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02px;
-  padding-left: 32px;
-  padding-top: 40px;
-  padding-right: 32px;
 }
 .projects-items-description:focus .cover-text {
   transform: translateY(0%);
@@ -459,7 +456,10 @@ button {
   top: 0;
   line-height: 1.5;
   color: var(--button-back-color);
-  padding: 40px 32px;
+  padding-left: 32px;
+  padding-top: 40px;
+  padding-right: 32px;
+  padding-bottom: 40px;
   background-color: #4d5ae5;
   width: 100%;
   height: 100%;
